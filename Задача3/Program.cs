@@ -20,6 +20,6 @@ int InputNumbers(string input)
 {
     Console.Write(input);
     int number = Convert.ToInt32(Console.ReadLine());
-    return number;
+    return numbere;
 }
 
